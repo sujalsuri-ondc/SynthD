@@ -1,0 +1,20 @@
+[project]
+name = "synthd"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Sujal Suri",email = "sujal.suri@ondc.org"}
+]
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "requests (>=2.34.2,<3.0.0)",
+    "wonderwords (>=3.0.1,<4.0.0)"
+]
+
+[tool.poetry]
+packages = [{include = "synthd", from = "src"}]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
