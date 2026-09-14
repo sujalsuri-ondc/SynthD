@@ -1,0 +1,3 @@
+[submodule "resources/protocol-network-extension"]
+	path = resources/protocol-network-extension
+	url = https://github.com/ONDC-Official/protocol-network-extension.git

@@ -1,0 +1,18 @@
+[global]
+CREATE_DATASET = true
+DEBUG_FILE = true
+
+[resources]
+ENUM_DIR = "resources/protocol-network-extension/enums/retail"
+TAXONOMY_FILE = "resources/taxonomy/Category taxonomy_v1.2 - Home & Kitchen (RET16).csv"
+SAVE_DIR = "resources/payloads"
+CATEGORY_NAME = "Home_And_Kitchen"
+DEBUG_FILE_PATH = "resources/payloads/Home_And_Kitchen/payload_0.pkl"
+
+[constants]
+N_PROVIDER_MIN = 10
+N_PROVIDER_MAX = 100
+ITEM_PER_PROVIDER_MIN = 20
+ITEM_PER_PROVIDER_MAX = 100
+N_SNP = 1_00_00
+

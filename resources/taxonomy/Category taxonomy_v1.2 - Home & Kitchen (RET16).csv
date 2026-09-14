@@ -1,0 +1,36 @@
+"(M - mandatory;
+O - optional;
+* - suggestive enums available here)",Attribute,,,,,,,,,,,,,
+Category,Brand,Colour*,Colour Name,Material*,Size,Weight,Length,Breadth,Height,Model,Assembly Required,Care Instructions,Special Features,Comments
+Home Decor,M,M,M,M,O,O,O,O,O,O,O,O,O,
+Furniture,M,M,M,M,O,M,M,M,M,O,M,O,O,
+Home Furnishing - Bedding and Linen,M,M,M,M,O,O,O,O,O,O,O,O,O,
+Cleaning Supplies,M,M,M,M,O,O,O,O,O,O,O,O,O,replaced by categories from 7-14 below
+Bins and Bathroom,M,O,O,M,O,O,O,O,O,O,O,O,O,"disinfectant sprays & cleaners, buckets & mugs, dustbin, hangers, clips & rope, plasticware, soap cases & dispensers, toilet cleaner, floor cleaner"
+Car and Shoe Care,M,O,O,O,O,O,O,O,O,O,O,O,O,"car polish & cleaners, shoe polish, shoe shiners & brushes"
+Disposables and Garbage Bags,M,M,M,M,O,O,O,O,O,O,O,O,O,"kitchen rolls, paper napkins, wet wipes, toilet paper"
+Fresheners and Repellents,M,O,O,O,O,O,O,O,O,O,O,O,O,"air freshener, insect repellant, mosquito repellant"
+"Mops, Brushes and Scrubs",M,O,O,M,O,O,O,O,O,O,O,O,O,"brooms & dust pans, dust & cloth wipes, mops, utensils scrub pad, glove, toilet & other brushes"
+Party and Festive Needs,M,O,O,O,O,O,O,O,O,O,O,O,O,"caps, balloons & candles, decorations, disposable cups and plates, gifts, gift wraps & bags"
+Flowers,M,M,M,O,O,O,O,O,O,O,O,O,O,"fresh flowers, artificial flowers"
+Pooja Needs,M,O,O,O,O,O,O,O,O,O,O,O,O,"agarbatti, incense sticks, camphors & wicks, lamp & lamp oils, candles & matchbox, pooja thalis, other pooja needs"
+Paint and Wallpapers,M,M,M,M,O,O,O,O,O,O,O,O,O,
+"Hardware, Tools and Home Safety",M,O,O,M,O,O,O,O,O,O,O,O,O,
+Electricals,M,M,M,M,O,M,M,M,M,O,M,O,O,
+Bathroom and Kitchen fixtures,M,M,M,M,O,O,O,O,O,O,O,O,O,
+Garden & Outdoor,M,O,O,M,O,O,O,O,O,O,O,O,O,
+Sports and Fitness Equipment,M,M,M,M,O,O,O,O,O,O,O,O,O,
+Cookware,M,M,M,M,O,O,O,O,O,O,O,O,O,
+Serveware,M,M,M,M,O,O,O,O,O,O,O,O,O,
+Kitchen Storage and Containers,M,M,M,M,O,O,O,O,O,O,O,O,O,
+Kitchen Tools,M,M,M,M,O,O,O,O,O,O,O,O,O,
+Closet/Laundry/Shoe Organization,M,M,M,M,O,O,O,O,O,O,O,O,O,
+Toys and Games,M,M,M,M,O,O,O,O,O,O,O,O,O,
+Stationery,M,M,M,O,O,O,O,O,O,O,O,O,O,
+Books,O,O,O,O,O,O,O,O,O,O,O,O,O,
+Gift Voucher,,,,,,,,,,,,,,
+Home Furnishings,M,M,M,M,O,O,O,O,O,O,O,O,O,Deprecated
+Garden and Outdoor Products,M,M,M,M,O,O,O,O,O,O,O,O,O,
+Home Improvement,M,M,M,M,O,O,O,O,O,O,O,O,O,
+Cookware and Dining,M,M,M,M,O,O,O,O,O,O,O,O,O,
+Storage and Organisation,M,M,M,M,O,O,O,O,O,O,O,O,O,
